@@ -188,33 +188,33 @@ body{
 
 /* photo /////////////////////////////////////////////////////////////////// */
 .photoand_name_container{
-  margin-top: 40px;
-  display: flex;
-  width: 60%;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  
-  margin-bottom: 40px;
+    margin-top: 40px;
+    display: flex;
+    width: 60%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 40px;
 }
 .image_container{
 
-  border: 1px solid rgb(255, 255, 255);
-  width: 150px;
-  border-radius: 100px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  opacity: 90%;
+    border: 1px solid rgb(255, 255, 255);
+    width: 150px;
+    border-radius: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 90%;
 }
 .image_mine{
-  padding: 3px;
-  object-fit: cover;
-  width: 150px;
-  height: 150px;
-  border-radius: 100px;
-  overflow: hidden;
+    padding: 3px;
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    overflow: hidden;
 }
 @media screen and (max-width: 600px) {
   .image_mine {
@@ -222,17 +222,17 @@ body{
     height: 120px;
  }
  .image_container{
-  margin-top: 60px;
-  width: 122px;
+    margin-top: 60px;
+    width: 122px;
  }
  .photoand_name_container{
-  flex-direction: column;
-  text-align: center;
-  margin-bottom: 0px;
-  width: 90%;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 0px;
+    width: 90%;
  }
  .name_about .head_name{
-  margin-top: -30px;
+    margin-top: -30px;
  }
 
 }
@@ -578,7 +578,7 @@ body{
   color: #fff;
   font-family: Consolas, Menlo, Monaco, monospace;
   font-weight: bold;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
   .code_animtxt{
