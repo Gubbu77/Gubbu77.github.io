@@ -215,6 +215,7 @@ body{
     height: 150px;
     border-radius: 100px;
     overflow: hidden;
+    opacity: 60%;
 }
 @media screen and (max-width: 600px) {
   .image_mine {
